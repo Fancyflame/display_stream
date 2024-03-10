@@ -1,4 +1,4 @@
-use lazy_display::{lazy_format, DisplayExt, JoinExt};
+use display_stream::{lazy_format, DisplayExt, JoinExt};
 
 fn main() {
     let disp = (0..50)
